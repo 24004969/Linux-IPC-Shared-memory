@@ -118,8 +118,9 @@ int main() {
 
 
 ## OUTPUT
-![image](images/o1.png)
+<img width="607" height="255" alt="image" src="https://github.com/user-attachments/assets/16dadf91-cbb2-4686-a0f5-421328b795ea" />
+<img width="788" height="555" alt="image" src="https://github.com/user-attachments/assets/645a33c1-358c-4a74-a55b-81e50e1143f7" />
 
-![image](images/o2.png)
+
 # RESULT:
 The program is executed successfully.
